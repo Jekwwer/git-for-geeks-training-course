@@ -4,4 +4,4 @@ This is a simple README file.
 
 ## Heading 2
 
-Just some updates on a new branch.
+I hope this will not cause a conflict.
