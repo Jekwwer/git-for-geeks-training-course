@@ -4,4 +4,4 @@ This is a simple README file.
 
 ## Heading 2
 
-I hope this will not cause a conflict.
+This will cause conflict.
